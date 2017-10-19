@@ -1,3 +1,3 @@
 # hello-world
 the usual repository
-authored by a poor and occasional coder with a decades long break from programming
+authored by a mediocre coder of the highest level
